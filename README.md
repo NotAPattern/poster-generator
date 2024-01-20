@@ -1,2 +1,7 @@
-# poster-generator
-Poster generator for GDSC events (include Зарешки)
+# Poster generator
+
+# To do
+
+- [ ] Emoji in random place in poster
+- [ ] Main picture
+- [ ] time and place
