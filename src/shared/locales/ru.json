@@ -3,5 +3,11 @@
   "placeholder-title": "Название мероприятия",
   "placeholder-description": "Описание мероприятия",
   "placeholder-date": "Дата начала",
-  "start": "с"
+  "placeholder-time": "Время начала",
+  "placeholder-address": "Адрес места проведения",
+  "placeholder-place-name": "Название места проведения",
+  "placeholder-emojis": "Список эмодзи через пробел",
+  "start": "с",
+  "button-rerender": "Перегенерировать",
+  "button-download": "Скачать"
 }

@@ -10,10 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/html2canvas": "^1.0.0",
+    "@types/random-seed": "^0.3.5",
     "antd": "^5.13.2",
     "clsx": "^2.1.0",
     "dayjs": "^1.11.10",
+    "html2canvas": "^1.4.1",
     "i18nano": "^4.0.1",
+    "random-seed": "^0.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
