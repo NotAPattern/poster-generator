@@ -10,5 +10,6 @@
 - [x] emoji in random place in poster
 - [x] main picture
 - [x] time and place
+- [ ] don't rerender emojis when change poster data
 - [ ] description editor
 - [ ] better emoji random
