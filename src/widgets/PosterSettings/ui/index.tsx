@@ -31,6 +31,7 @@ export const PosterSettings: FC<PosterSettingsProps> = ({ posterRef }) => {
 
   const onChangeInputHandler = (type: string) => {
     return (event: React.ChangeEvent<HTMLInputElement>) => {
+      // NEVER, NEVER USE eval!
       eval(`set${type}("${event.target.value}")`)
     }
   }
